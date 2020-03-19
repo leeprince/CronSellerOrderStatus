@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/github.com/Unknwon/goconfig" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/go-sql-driver/mysql" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/go-xorm/builder" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/go-xorm/core" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/go-xorm/xorm" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/henrylee2cn/faygo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/henrylee2cn/goutil" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/henrylee2cn/ini" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/github.com/Unknwon/goconfig" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/github.com/go-sql-driver/mysql" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/github.com/go-xorm/builder" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/github.com/go-xorm/core" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/github.com/go-xorm/xorm" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/github.com/henrylee2cn/faygo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/github.com/henrylee2cn/goutil" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/github.com/henrylee2cn/ini" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/github.com/jteeuwen/go-bindata" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/github.com/objcoding/wxpay" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/github.com/robfig/cron" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/golang.org/x/crypto" vcs="Git" />
+  </component>
+</project>
