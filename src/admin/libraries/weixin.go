@@ -9,9 +9,9 @@ import (
 func initClientConfig() *wxpay.Client {
 	// 创建支付账户
 	account := wxpay.NewAccount(
-		"wx702cb723xxx",
-		"149421xxx",
-		"e9482cfa9414cxxx",
+		"绑定微信APPID",
+		"商户号",
+		"支付密钥",
 		false) // sandbox环境请传true
 
 	// 设置证书
