@@ -9,9 +9,9 @@ import (
 func initClientConfig() *wxpay.Client {
 	// 创建支付账户
 	account := wxpay.NewAccount(
-		"wx7b2702cb723xxx",
+		"wx702cb723xxx",
 		"149421xxx",
-		"e9483bcfa2cfa9414cxxx",
+		"e9482cfa9414cxxx",
 		false) // sandbox环境请传true
 
 	// 设置证书
